@@ -16,8 +16,6 @@ type
     Memo2: TMemo;
     Memo3: TMemo;
     Button1: TButton;
-    TabSheet4: TTabSheet;
-    Memo4: TMemo;
     procedure Button1Click(Sender: TObject);
   private
     { Private declarations }

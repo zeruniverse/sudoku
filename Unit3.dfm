@@ -27,7 +27,7 @@ object Form3: TForm3
     Top = 35
     Width = 257
     Height = 25
-    Caption = 'IceBreaker  (55 has been) '
+    Caption = 'IceBreaker  (55) '
     TabOrder = 0
     OnClick = Button1Click
   end
@@ -36,7 +36,7 @@ object Form3: TForm3
     Top = 66
     Width = 257
     Height = 25
-    Caption = 'beginner(45 has been)'
+    Caption = 'beginner (45)'
     TabOrder = 1
     OnClick = Button2Click
   end
@@ -45,7 +45,7 @@ object Form3: TForm3
     Top = 97
     Width = 257
     Height = 25
-    Caption = 'Low-Intermediate(35 has been)'
+    Caption = 'Low-Intermediate (35)'
     TabOrder = 2
     OnClick = Button3Click
   end
@@ -54,7 +54,7 @@ object Form3: TForm3
     Top = 128
     Width = 257
     Height = 25
-    Caption = 'Intermediate(30 has been)'
+    Caption = 'Intermediate (30)'
     TabOrder = 3
     OnClick = Button4Click
   end
@@ -63,7 +63,7 @@ object Form3: TForm3
     Top = 159
     Width = 257
     Height = 25
-    Caption = 'Professor (20 has been)['#21547'5'#20010#19981#31561#21495']'
+    Caption = 'Professor (20)['#21547'5'#20010#19981#31561#21495']'
     TabOrder = 4
     OnClick = Button5Click
   end
@@ -72,7 +72,7 @@ object Form3: TForm3
     Top = 190
     Width = 257
     Height = 25
-    Caption = 'Expert(15 has been)['#21547'30'#20010#19981#31561#21495']'
+    Caption = 'Expert (15)['#21547'30'#20010#19981#31561#21495']'
     TabOrder = 5
     OnClick = Button6Click
   end
@@ -81,7 +81,7 @@ object Form3: TForm3
     Top = 221
     Width = 257
     Height = 25
-    Caption = 'Big  Challenge(10 has been)['#21547'60'#20010#19981#31561#21495']'
+    Caption = 'Big  Challenge (10)['#21547'60'#20010#19981#31561#21495']'
     TabOrder = 6
     OnClick = Button7Click
   end
@@ -90,7 +90,7 @@ object Form3: TForm3
     Top = 252
     Width = 257
     Height = 25
-    Caption = 'Creater (5 has been )!!!['#21547'80'#20010#19981#31561#21495']'
+    Caption = 'Creator (5)!!!['#21547'80'#20010#19981#31561#21495']'
     TabOrder = 7
     OnClick = Button8Click
   end

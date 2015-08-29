@@ -95,7 +95,7 @@ object Form5: TForm5
   end
   object Label7: TLabel
     Left = 136
-    Top = 368
+    Top = 360
     Width = 6
     Height = 23
     Caption = ' '
@@ -108,10 +108,10 @@ object Form5: TForm5
   end
   object Label8: TLabel
     Left = 8
-    Top = 368
-    Width = 76
+    Top = 360
+    Width = 77
     Height = 23
-    Caption = 'Creater '
+    Caption = 'Creator '
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -19
@@ -186,9 +186,9 @@ object Form5: TForm5
   object Label14: TLabel
     Left = 8
     Top = 221
-    Width = 103
+    Width = 96
     Height = 23
-    Caption = 'Proffessor '
+    Caption = 'Professor '
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -19
