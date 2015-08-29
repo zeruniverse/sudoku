@@ -1,8 +1,21 @@
 ﻿# Sudoku  
   
-This is a really old project. I can't really remember when I wrote it. I found the source code of this project in my old USB disk.  
-I put this project here just for backup purpose. There won't be any further updates. Hopefully you can compile it in Delphi XE2.  
+##Description  
+This is a Sudoku game I wrote in middle school when I was learning Pascal.  
+The program uses DFS (Depth-First-Search) to generate the puzzle.  
+Inequality is the biggest feature of this game.  
   
-Jeffery Zhao. Long time ago.  
+##Release
+[8.2.1](https://github.com/zeruniverse/sudoku/releases/tag/8.2.1)  
+[Download EXE](https://github.com/zeruniverse/sudoku/releases/download/8.2.1/sudoku.exe)  
+
+##Compile Environment  
+Embarcadero RAD Studio XE2 (Delphi XE2)  
   
-上古时代的项目，从U盘里翻出来的，传一份到GITHUB备份。记忆中应该可以使用Embarcadero Delphi XE2编译(如果不行请提交ISSUE)。
+#Screenshot  
+<img width="460" alt="capture11" src="https://cloud.githubusercontent.com/assets/4648756/9560514/d5377a68-4dcc-11e5-8b85-cb9afb34b904.PNG">  
+<img width="400" alt="capture22" src="https://cloud.githubusercontent.com/assets/4648756/9560515/d700581a-4dcc-11e5-9bc5-48c761626dd4.PNG">  
+<img width="460" alt="capture33" src="https://cloud.githubusercontent.com/assets/4648756/9560516/d8ac0588-4dcc-11e5-9f68-de248ad0ec91.PNG">  
+  
+##License  
+Public Domain (版权没有)
