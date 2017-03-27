@@ -18,6 +18,5 @@ Embarcadero RAD Studio XE2 (Delphi XE2)
 <img width="460" alt="capture33" src="https://cloud.githubusercontent.com/assets/4648756/9560516/d8ac0588-4dcc-11e5-9f68-de248ad0ec91.PNG">  
   
 ##License  
-I've given up the copyright of this program. So it's now in      
-Public Domain    
-(版权没有)
+Now in Public Domain.
+No license.
